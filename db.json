@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Nikoletta Scarpinella",
+      "number": "211-21-21",
+      "id": 1
+    },
+    {
+      "name": "Luis Anderson",
+      "number": "666-66-66",
+      "id": 2
+    },
+    {
+      "name": "Miki Mause",
+      "number": "777-77-77",
+      "id": 3
+    },
+    {
+      "name": "Luis Anderson",
+      "number": "888-88-88",
+      "id": 4
+    },
+    {
+      "name": "Chad Croeger",
+      "number": "211-21-21",
+      "id": 5
+    },
+    {
+      "name": "Pitere Parker",
+      "number": "222-22-22",
+      "id": 6
+    },
+    {
+      "name": "Rosie Simpson",
+      "number": "111-22-33",
+      "id": 7
+    }
+  ]
+}
