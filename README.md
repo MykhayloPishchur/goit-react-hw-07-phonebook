@@ -1,1 +1,1 @@
-Homepage : https://goit-react-hw-05.netlify.app/
+Homepage : https://goit-react-hw-07-phonebook.netlify.app/
